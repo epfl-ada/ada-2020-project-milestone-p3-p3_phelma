@@ -40,7 +40,7 @@ Week 2: implement the different learning methods that could be used for predicti
 
 Week 3: choosing the most effective method and doing a global analysis on its resulting predictions. In the meantime we will prepare the video and see if some points must be developed more and if some can be added.
 
-# 7. Organization within the team
+## Organization within the team
 
 At the beginning one will focus on the different machine learning methods, one will clean the dataset and another one will pre process the data. Then when processing and cleaning  will be done, all members will focus their work on implementing predictive methods, maybe by working simultaneously on different ones. This will allow us to finally compare the efficiency of each method in order to have a great overall prediction.
 The video will be done together, but each member will mainly present the steps and methods he worked on with regards to putting all the curves or tables useful to justify his foundings.
